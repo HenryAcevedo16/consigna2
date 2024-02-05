@@ -1,0 +1,66 @@
+[
+  {
+    "id": 2,
+    "title": "Xbox Series X",
+    "description": "Consola de videojuegos de alta potencia",
+    "price": 499.99,
+    "code": "XBX-001",
+    "stock": 15
+  },
+  {
+    "id": 3,
+    "title": "Nintendo Switch",
+    "description": "Consola híbrida para jugar en casa y en movimiento",
+    "price": 299.99,
+    "code": "NSW-001",
+    "stock": 25
+  },
+  {
+    "id": 4,
+    "title": "Gaming Laptop ASUS ROG",
+    "description": "Laptop gaming con potente rendimiento",
+    "price": 1499.99,
+    "code": "LAP-001",
+    "stock": 10
+  },
+  {
+    "id": 5,
+    "title": "Logitech G Pro X Mechanical Keyboard",
+    "description": "Teclado mecánico para gaming profesional",
+    "price": 129.99,
+    "code": "KB-001",
+    "stock": 30
+  },
+  {
+    "id": "00725261-a9fa-4bbd-ba88-ab20ec74a92a",
+    "title": "Xbox Series X",
+    "description": "Consola de videojuegos de alta potencia",
+    "price": 499.99,
+    "code": "XBX-001",
+    "stock": 15
+  },
+  {
+    "id": "3de883e0-d6e1-4233-8877-f703652ecf57",
+    "title": "Nintendo Switch",
+    "description": "Consola híbrida para jugar en casa y en movimiento",
+    "price": 299.99,
+    "code": "NSW-001",
+    "stock": 25
+  },
+  {
+    "id": "c4d36a35-ad60-4292-b520-dee6f0843efa",
+    "title": "Gaming Laptop ASUS ROG",
+    "description": "Laptop gaming con potente rendimiento",
+    "price": 1499.99,
+    "code": "LAP-001",
+    "stock": 10
+  },
+  {
+    "id": "6bfeee93-0cb7-42a3-9fcd-183b92601716",
+    "title": "Logitech G Pro X Mechanical Keyboard",
+    "description": "Teclado mecánico para gaming profesional",
+    "price": 129.99,
+    "code": "KB-001",
+    "stock": 30
+  }
+]
